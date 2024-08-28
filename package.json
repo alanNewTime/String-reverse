@@ -1,0 +1,14 @@
+{
+  "name": "string-reverse",
+  "version": "1.0.0",
+  "description": "reverse string",
+  "main": "index.js",
+  "scripts": {
+    "test": "rev"
+  },
+  "keywords": [
+    "rev"
+  ],
+  "author": "alan",
+  "license": "ISC"
+}
